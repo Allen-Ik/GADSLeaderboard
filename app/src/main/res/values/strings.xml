@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">SplashScreenActivity</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="submitbutton">Submit</string>
+    <string name="text_name">Name</string>
+    <string name="text_country">Country</string>
+    <string name="text_hours">Hours</string>
+    <string name="text_score_s">Score</string>
+    <string name="text_country_s">Country</string>
+    <string name="text_name_s">Name</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_submisssion">Project Submission</string>
+
+    <string name="project_on_github">Project on github(Link)</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+
+    <string name="the_submission_was_not_successful">The submission was not successful</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="learning_hours">learning hours,</string>
+    <string name="skill_iq_score">skill IQ score,</string>
+
+</resources>
